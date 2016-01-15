@@ -1,0 +1,6 @@
+.DS_Store
+.env
+.python-version
+*$py.class
+*.py[cod]
+__pycache__/
